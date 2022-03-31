@@ -295,7 +295,7 @@ header.active{
 
 .category .box-container .content h3{
     font-size: 3rem;
-    color:#3337;
+    color:rgba(255, 0, 149, 0.438);
     text-transform: uppercase;
     padding-top: .5rem;
 }
